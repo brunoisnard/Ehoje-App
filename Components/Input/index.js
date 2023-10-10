@@ -37,7 +37,7 @@ export default function Input({
               onPress={() => setVisiblePassword(!visiblePassword)}
             >
               <Eye
-                color="#097303"
+                color="#ff0000"
                 weight="fill"
                 size={22}
                 onPress={() => setVisiblePassword(!visiblePassword)}
@@ -47,7 +47,7 @@ export default function Input({
             <TouchableOpacity
               onPress={() => setVisiblePassword(!visiblePassword)}
             >
-              <EyeSlash size={22} color="#097303" weight="fill" />
+              <EyeSlash size={22} color="#ff0000" weight="fill" />
             </TouchableOpacity>
           )
         ) : (

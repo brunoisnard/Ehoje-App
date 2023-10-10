@@ -18,7 +18,7 @@ export default function ButtonComponent({
 const styles = StyleSheet.create({
   button: {
     width: '100%',
-    backgroundColor: '#097303',
+    backgroundColor: '#ff0000',
     color:'#FFFFFF',
     height: 50,
     borderWidth: 1,

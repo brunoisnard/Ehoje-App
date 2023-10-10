@@ -113,7 +113,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     letterSpacing: 0.25,
     textDecorationLine: 'underline',
-    color: '#097303',
+    color: '#ff0000',
     marginTop: '10%',
   },
   textLeft: {
